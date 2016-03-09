@@ -1,9 +1,6 @@
 // Queens_1D.cpp : Defines the entry point for the console application.
 //Jonathan Persaud
-//Homework#6
-//CS211
 
-#include "stdafx.h"
 #include <iostream>
 #include <cmath>
 
